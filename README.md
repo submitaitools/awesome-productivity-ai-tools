@@ -74,6 +74,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Obsidian](https://obsidian.md/): Personal knowledge base with AI plugins for note management.
 - [Roam Research](https://roamresearch.com/): Note-taking tool with AI-assisted linking and organization.
 - [Mem](https://mem.ai/): AI-powered note-taking app that organizes information automatically.
+- [Remio](https://remio.ai/): Local-first AI memory and knowledge base desktop app for retrieving context from files, webpages, recordings, emails, and notes.
 
 ## 🔄 [AI Workflow Management](https://submitaitools.org/category/best-ai-workflow-management-tools)
 - [Zapier](https://zapier.com/): Automate workflows by connecting different apps and services with AI.
