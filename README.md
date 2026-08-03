@@ -130,6 +130,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Tldraw](https://www.tldraw.com/): Visual diagramming with AI-enhanced features.
 - [Sketch.systems](https://sketch.systems/): AI model building with structured diagrams.
 - [Creately](https://creately.com/): Diagram and map collaboration with AI help.
+- [flow-chart.io](https://flow-chart.io): AI diagram generator that produces fully editable scene graphs — C4, BPMN, cloud architecture, ERD, DevOps pipelines, and 17+ domains. Every node and connector is a real editable object (not a locked image). Free plan: 40 AI credits/month.
 
 ## 📑 [AI Document Extraction](https://submitaitools.org/category/best-ai-document-extraction-tools)
 - [Rossum](https://rossum.ai/): AI-based document data extraction and automation.
