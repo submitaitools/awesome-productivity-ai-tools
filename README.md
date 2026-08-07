@@ -102,6 +102,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Clockwise](https://www.getclockwise.com/): Calendar automation and meeting optimization.
 - [x.ai (now part of Bizzabo)](https://x.ai/): AI scheduling assistant (legacy).
 - [Trevor AI](https://trevorai.com/): Daily planning and time blocking assistant.
+- [Autoposting](https://autoposting.ai/): AI social media scheduler that writes and queues posts across five networks.
 
 ## 🧠 [AI Mind Mapping](https://submitaitools.org/category/best-ai-mind-mapping-tools)
 - [MindMeister](https://www.mindmeister.com/): Create structured mind maps with AI prompts.
