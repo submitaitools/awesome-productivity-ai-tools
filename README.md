@@ -11,6 +11,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Beautiful.ai](https://www.beautiful.ai/): Design stunning presentations with AI assistance.
 - [Tome](https://tome.app/): Craft compelling narratives and presentations with AI.
 - [SlidesAI](https://www.slidesai.io/): Transform text into professional presentations effortlessly.
+- [CV Forge](https://github.com/DeusAcc/cv-forge-ai-resume-builder) - AI-powered resume builder and ATS optimizer.
 
 ## 📊 [AI Spreadsheet](https://submitaitools.org/category/best-ai-spreadsheet-tools)
 - [Numerous.ai](https://numerous.ai/): Automate spreadsheet tasks like categorizing and data cleaning with AI.
