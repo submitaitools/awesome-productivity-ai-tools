@@ -123,6 +123,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Descript](https://www.descript.com/): Record, edit, and transcribe videos with AI.
 - [Veed.io](https://www.veed.io/): AI tools for editing and transcribing videos.
 - [Pictory](https://pictory.ai/): Convert long videos into short AI-edited summaries.
+- [videos.social](https://videos.social/?utm_source=submitaitools-awesome-productivity-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d): Turns blogs, PDFs, and prompts into editable faceless videos.
 
 ## 🗺️ [AI Diagram Generator](https://submitaitools.org/category/best-ai-diagram-generator-tools)
 - [Whimsical](https://whimsical.com/): AI diagramming and flowchart creation.
