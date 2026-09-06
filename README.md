@@ -46,6 +46,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [ClickUp](https://clickup.com/): All-in-one productivity platform with AI integrations.
 - [Motion](https://www.usemotion.com/): AI-powered task and project management tool.
 - [Trello with Butler](https://trello.com/butler-ai): Automate tasks and workflows in Trello using AI.
+- [Orkas](https://orkas.ai/?source=gh_prodsubmit): Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## ✅ [AI Task Management](https://submitaitools.org/category/best-ai-task-management-tools)
 - [Asana](https://asana.com/): Manage tasks and projects with AI-assisted features.
