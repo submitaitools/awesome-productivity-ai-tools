@@ -60,6 +60,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Miro](https://miro.com/): Collaborative whiteboard platform with AI-driven brainstorming tools.
 - [Airtable](https://airtable.com/): Collaborate on databases and spreadsheets with AI enhancements.
 - [Figma](https://www.figma.com/): Design collaboration platform with AI-powered features.
+- [Raphael AI](https://raphael.app): AI design studio for product photos, ad creatives, and brand visuals.
 
 ## 📅 [AI Meeting Assistant](https://submitaitools.org/category/best-ai-meeting-assistant-tools)
 - [Otter.ai](https://otter.ai/): Transcribe meetings in real-time and generate summaries with AI.
