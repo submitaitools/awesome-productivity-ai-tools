@@ -42,6 +42,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 
 ## ⚙️ [AI Productivity Tools](https://submitaitools.org/category/best-ai-productivity-tools)
 - [Zapier](https://zapier.com/blog/best-ai-productivity-tools/): Automate workflows by connecting apps and services with AI.
+- [TranscribeLab](https://transcribelab.pro) - Bot-free AI transcription workspace that turns meetings, YouTube videos, and lectures into searchable transcripts and books.
 - [Notion AI](https://www.notion.so/product/ai): Enhance your notes and documents with AI-powered features.
 - [ClickUp](https://clickup.com/): All-in-one productivity platform with AI integrations.
 - [Motion](https://www.usemotion.com/): AI-powered task and project management tool.
