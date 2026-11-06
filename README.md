@@ -144,6 +144,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Notion AI](https://www.notion.so/product/ai): Understand and transform documents.
 - [AI PDF](https://www.aipdf.com/): Summarize, translate and query documents using AI.
 - [Genei](https://www.genei.io/): Research and summarization tool for documents.
+- [DisconfirmAI](https://disconfirmai.com/en): Investment research and reading platform that helps you look for evidence that could prove a thesis wrong before you lock it in.
 
 ## 📂 [AI Files Assistant](https://submitaitools.org/category/best-ai-files-assistant-tools)
 - [Filevine](https://www.filevine.com/): AI-powered file and legal case management.
